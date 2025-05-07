@@ -1,0 +1,12 @@
+{
+    "ios": {
+        "version": "1.0.1",
+        "bundle_url": "https://raw.githubusercontent.com/mobifoneit-ttcntt/eoffice-ota/main/ios/main.jsbundle",
+        "is_active": true
+    },
+    "android": {
+        "version": "1.0.1",
+        "bundle_url": "https://raw.githubusercontent.com/mobifoneit-ttcntt/eoffice-ota/main/android/index.android.bundle",
+        "is_active": true
+    }
+}
