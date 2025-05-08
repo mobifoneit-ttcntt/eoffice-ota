@@ -1,5 +1,12 @@
 {
-    "version": 1,
-    "downloadAndroidUrl": "https://raw.githubusercontent.com/mobifoneit-ttcntt/eoffice-ota/main/ios/main.jsbundle.zip?alt=media",
-    "downloadIosUrl": "https://raw.githubusercontent.com/mobifoneit-ttcntt/eoffice-ota/main/ios/main.jsbundle.zip?alt=media"
-  }
+    "ios": {
+        "version": "1.0.0",
+        "bundle_url": "https://raw.githubusercontent.com/mobifoneit-ttcntt/eoffice-ota/main/ios/main.jsbundle.zip?alt=media",
+        "is_active": true
+    },
+    "android": {
+        "version": "1.0.0",
+        "bundle_url": "https://raw.githubusercontent.com/mobifoneit-ttcntt/eoffice-ota/main/ios/main.jsbundle.zip?alt=media",
+        "is_active": true
+    }
+}
